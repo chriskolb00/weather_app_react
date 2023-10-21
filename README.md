@@ -1,3 +1,4 @@
-# Weather App using React
+# <a href="https://weather-app-react-one-lake.vercel.app/">Visit Site</a>
+* Project: Weather App using React
 * Tools used: React js, web api fetching, css, tailwind css
-* Demo coming soon
+* This application allow user to display location weather and image background based on user's search term.
